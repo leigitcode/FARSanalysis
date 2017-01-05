@@ -4,7 +4,7 @@ Version: 0.1
 Authors@R: person("Lisa", "Iype", email = "xx@gmail.com", role = c("aut", "cre"))
 Description: Provides functions for analysis of FARS data.
 Depends:
-    R (>= 3.3.2)
+    R (>= 3.3.1)
 Imports: dplyr, readr, tidyr, maps, graphics, magrittr    
 License: GPL (>= 2)
 Encoding: UTF-8
