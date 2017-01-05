@@ -12,6 +12,7 @@ knitr::opts_chunk$set(
 )
 ```
 
+[![Build Status](https://travis-ci.org/leigitcode/FARSanalysis.svg?branch=master)](https://travis-ci.org/leigitcode/FARSanalysis)
 
 ## Aim of the Package
 The US National Highway Traffic Safety Administration records American data about fatal injuries due to motor vehicle crashes using the Fatality Analysis Reporting System (FARS).  More information is available at https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars.  This package provides functions to analyze and visualize the FARS data.  A data summary of FARS data for a particular year or range of years can be generated.  Also, a state map displaying FARS data for a particular year can be generated.  
